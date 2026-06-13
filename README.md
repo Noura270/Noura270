@@ -47,7 +47,7 @@ I enjoy designing and developing real-world AI applications such as:
 ---
 
 ## 📫 Connect with Me
-- GitHub: https:/https://github.com/Noura270/Noura270/  
+- GitHub: https:/https://github.com/Noura270/  
 - LinkedIn: www.linkedin.com/in/noura-hamdy  
 - Email: nourahamdy270@gmail.com  
 
