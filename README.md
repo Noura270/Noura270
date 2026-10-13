@@ -11,8 +11,8 @@ By combining a strong foundation in modern AI architectures with rigorous compli
 ---
 
 ## 🧠 About Me
-- 🔭 Deeply experienced in Machine Learning foundations, LLMs, and Autonomous Agentic AI workflows.
-- ⚖️ Specialized in AI Ethics, Risk Management, and Regulatory Compliance (EU AI Act, NIST AI RMF, ISO/IEC 42001, GDPR).
+- 🔭  Strong architectural understanding of Machine Learning foundations, LLMs, and Autonomous Agentic AI workflows.
+- ⚖️ Specialized in AI Ethics, Risk Management, and Regulatory Compliance (EU AI Act, NIST AI RMF, ISO/IEC 42001,...).
 - 🧪 Architecting end-to-end AI governance frameworks and automated policy-auditing applications.
 - 🎯 Goal: Align advanced AI systems with rigorous safety, transparency, and regulatory requirements.
 
