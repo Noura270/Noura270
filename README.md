@@ -4,7 +4,7 @@
 
 # 🛡️ AI Governance & Responsible AI Specialist | AI Engineer
 
-I am an AI Governance practitioner and AI Engineer with deep technical expertise in **Machine Learning (ML)** and **Agentic AI systems**. I specialize in designing, auditing, and scaling trustworthy, regulatory-compliant AI models aligned with global frameworks (EU AI Act, NIST AI RMF). 
+I am an AI Governance practitioner with an engineering foundation & conceptual knowledge of ML/Agentic architectures. Dedicated to trustworthy AI systems. I specialize in designing, auditing, and scaling trustworthy, regulatory-compliant AI models aligned with global frameworks (EU AI Act, NIST AI RMF). 
 
 By combining a strong foundation in modern AI architectures with rigorous compliance methodologies, I bridge the gap between technical AI execution and strict legal, ethical, and operational standards.
 
